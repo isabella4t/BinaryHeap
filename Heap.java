@@ -6,7 +6,7 @@ public class Heap {
         heap = new int[n];
     }
 
-    public yHeap(int[] n){
+    public Heap(int[] n){
         heap = int[] n;
     }
     public void insert(int m){
